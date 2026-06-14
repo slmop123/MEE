@@ -1,0 +1,6 @@
+{
+  "name": "محرك هندسة النعيم",
+  "description": "مخطط هندسي ومحاكاة بصرية مستوحاة من الأحاديث النبوية لبناء ملك المؤمن في الجنة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
